@@ -12,8 +12,22 @@ Learn more about Slidev at the [documentation](https://sli.dev/).
 
 ## Deployment
 
-GitHub Pages
+GitHub Pages: https://kleinlennart.github.io/un-slidev-template/
 
 ## Export
 
-`pnpm slidev export --timeout 60000 --wait 1000`
+### Slide Export
+
+Export slides to PDF (default format):
+
+```bash
+pnpm slidev export --timeout 60000 --wait 1000
+```
+
+Example output: [slides-export.pdf](slides-export.pdf)
+
+**Other export formats:**
+
+- PPTX: `pnpm slidev export --format pptx`
+- PNG: `pnpm slidev export --format png`
+- Markdown: `pnpm slidev export --format md`
