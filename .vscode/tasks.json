@@ -33,7 +33,7 @@
         {
             "label": "Slidev: Export",
             "type": "shell",
-            "command": "pnpm slidev export",
+            "command": "pnpm slidev export --timeout 60000 --wait 1000",
             "problemMatcher": [ ],
             "presentation": {
                 "reveal": "always",

@@ -9,3 +9,11 @@ To start the slide show:
 Edit the [slides.md](./slides.md) to see the changes.
 
 Learn more about Slidev at the [documentation](https://sli.dev/).
+
+## Deployment
+
+GitHub Pages
+
+## Export
+
+`pnpm slidev export --timeout 60000 --wait 1000`
