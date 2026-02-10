@@ -1,0 +1,11 @@
+/* Custom slide title styling */
+h1 {
+  font-size: 1.75rem !important;
+  color: #000000 !important;
+  font-weight: 600 !important;
+}
+
+/* Body text styling */
+body {
+  color: #000000 !important;
+}

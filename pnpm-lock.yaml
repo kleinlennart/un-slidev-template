@@ -17,6 +17,12 @@ importers:
       '@slidev/theme-seriph':
         specifier: latest
         version: 0.25.0
+      '@types/d3':
+        specifier: ^7.4.3
+        version: 7.4.3
+      d3:
+        specifier: ^7.9.0
+        version: 7.9.0
       vue:
         specifier: ^3.5.27
         version: 3.5.28(typescript@5.9.3)
