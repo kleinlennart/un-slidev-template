@@ -5,9 +5,11 @@ transition: go-forward | go-backward
 fonts:
   sans: Roboto
   mono: Roboto Mono
+themeConfig:
+  primary: "#009edb"
 ---
 
-# Title Slide
+<h1 text-primary uppercase>Title Slide</h1>
 
 Your presentation title | Your Name | Date
 
