@@ -2,6 +2,9 @@
 theme: default
 title: My Presentation
 transition: go-forward | go-backward
+fonts:
+  sans: Roboto
+  mono: Roboto Mono
 ---
 
 # Title Slide
